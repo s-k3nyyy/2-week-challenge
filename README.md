@@ -15,12 +15,12 @@ Git
 
 Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+git clone https://s-k3nyyy.github.io/2-week-challenge/
 
 ```
 
 Live Link
-[Git](gh-pages link)
+https://s-k3nyyy.github.io/2-week-challenge/
 
 Technologies used
 HTML
@@ -28,7 +28,7 @@ Github
 Javascript
 
 Support and contact details
-github.com/s-k3nyyy phone number;0707499607
+github.com/s-k3nyyy phone number:0707499607
 
  License
 The content of this site is licensed under the MIT license
